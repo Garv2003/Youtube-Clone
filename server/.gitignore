@@ -1,7 +1,4 @@
 node_modules
 
-/env
-.env
-
-# remove .env file
-rm .env
+*.local
+.env.local
